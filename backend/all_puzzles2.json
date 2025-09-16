@@ -1,0 +1,26 @@
+﻿
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"success":true,"puzzles":[{"_id":"68c6e321b6736f2f77778731","title":"Stohastički 
+                    proces","description":"Analiziraj složen problem verovatnoće sa uslovnim 
+                    verovatnoćama.","category":"kombinatorika","d...
+RawContent        : HTTP/1.1 200 OK
+                    Access-Control-Allow-Origin: http://localhost:8080
+                    Vary: Origin
+                    Access-Control-Allow-Credentials: true
+                    Connection: keep-alive
+                    Keep-Alive: timeout=5
+                    Content-Length: 4196
+                    Content-...
+Forms             : {}
+Headers           : {[Access-Control-Allow-Origin, http://localhost:8080], [Vary, Origin], 
+                    [Access-Control-Allow-Credentials, true], [Connection, keep-alive]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 4196
+
+
+
